@@ -1,0 +1,28 @@
+PLINK v1.9.0-b.7.7 64-bit (22 Oct 2024)
+Options in effect:
+  --file toy
+  --make-bed
+  --out toy_bin
+
+Hostname: localhost
+Working directory: /mnt/c/Users/Ιωσήφ/ergasthrio3
+Start time: Thu Jun  5 13:10:15 2025
+
+Random number seed: 1749118215
+3833 MB RAM detected; reserving 1916 MB for main workspace.
+Scanning .ped file... done.
+Performing single-pass .bed write (2 variants, 2 people).
+--file: toy_bin-temporary.bed + toy_bin-temporary.bim + toy_bin-temporary.fam
+written.
+2 variants loaded from .bim file.
+2 people (2 males, 0 females) loaded from .fam.
+2 phenotype values loaded from .fam.
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 2 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate is 0.75.
+2 variants and 2 people pass filters and QC.
+Among remaining phenotypes, 1 is a case and 1 is a control.
+--make-bed to toy_bin.bed + toy_bin.bim + toy_bin.fam ... done.
+
+End time: Thu Jun  5 13:10:15 2025

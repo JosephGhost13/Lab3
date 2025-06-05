@@ -1,0 +1,24 @@
+PLINK v1.9.0-b.7.7 64-bit (22 Oct 2024)
+Options in effect:
+  --assoc
+  --bfile toy_bin
+  --out assoc_results
+
+Hostname: localhost
+Working directory: /mnt/c/Users/Ιωσήφ/ergasthrio3
+Start time: Thu Jun  5 13:10:18 2025
+
+Random number seed: 1749118218
+3833 MB RAM detected; reserving 1916 MB for main workspace.
+2 variants loaded from .bim file.
+2 people (2 males, 0 females) loaded from .fam.
+2 phenotype values loaded from .fam.
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 2 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate is 0.75.
+2 variants and 2 people pass filters and QC.
+Among remaining phenotypes, 1 is a case and 1 is a control.
+Writing C/C --assoc report to assoc_results.assoc ... done.
+
+End time: Thu Jun  5 13:10:18 2025

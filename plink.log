@@ -1,0 +1,13 @@
+PLINK v1.9.0-b.7.7 64-bit (22 Oct 2024)
+Options in effect:
+  --meta-analysis DGI_three_regions_PLINK_adjusted.txt MAGIC_FUSION_PLINK_adjusted.txt magic_SARDINIA_PLINK_adjusted.txt +beta field=SNP,A1,A2,BETA,SE logscale no-allele report-all
+
+Hostname: localhost
+Working directory: /mnt/c/Users/Ιωσήφ/ergasthrio3
+Start time: Thu Jun  5 13:17:29 2025
+
+Random number seed: 1749118649
+3833 MB RAM detected; reserving 1916 MB for main workspace.
+Error: No effect size field found in DGI_three_regions_PLINK_adjusted.txt.
+
+End time: Thu Jun  5 13:17:29 2025
